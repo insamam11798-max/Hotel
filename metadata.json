@@ -1,0 +1,7 @@
+{
+  "name": "HotelPulse AI",
+  "description": "Hotel performance intelligence for owners, GMs, finance, revenue and F&B teams. Benchmarking, KPI analytics, AI insights, and monthly report generation.",
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

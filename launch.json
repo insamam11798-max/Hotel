@@ -1,0 +1,6 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    { "name": "hotelpulse", "runtimeExecutable": "npm", "runtimeArgs": ["--prefix", "hotelpulse", "run", "dev"], "port": 3000 }
+  ]
+}
